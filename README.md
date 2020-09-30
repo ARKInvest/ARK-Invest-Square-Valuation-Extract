@@ -9,6 +9,9 @@ Read ARK’s corresponding blog with further explanation of our assumptions and 
 
 Authors: Maximilian Friedrich
 
+
+---------------------------------
+
 Disclosure: This work is licensed under a Creative Commons Attribution-Non-Commercial 4.0 International License. You may not use the material for commercial purposes without first obtaining written permission.
 
 2020, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC (“ARK”) unless otherwise stated herein.
