@@ -3,6 +3,8 @@
 Square Valuation Extract.
 Published 30/9/2020.
 
+*__The information presented reflects the views and assumptions of the authors at the time of publication. Please note that this research is at least one year old and the authors' current views may materially differ from those presented without notice. The results will not be updated as ARK's internal models change, or any information upon which ARK relies upon changes.__*
+
 To foster healthy debate, we have published an extract of our Square valuation model. Intentionally, we have not incorporated the potential for Square’s international business, an important call option. Feel free to change variables to battle test our assumptions and share your thoughts with us. We will welcome all questions, feedback, and constructive criticism. Modifiable variables are marked in red.
 
 Read ARK’s corresponding blog with further explanation of our assumptions and thoughts on Square here: https://ark-invest.com/analyst-research/square-valuation
